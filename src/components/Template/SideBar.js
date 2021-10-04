@@ -21,8 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Rutvik. I like building things.
         I am a <a href="https://www.centennialcollege.ca/">Centennial College</a> alumni, and
-        the front end developer of <a href="https://cakepm.com">Cake</a>. Before Cake I was
-        at <a href="https://mitel.com">Mitel</a>.
+        a front end developer.
       </p>
       <ul className="actions">
         <li>

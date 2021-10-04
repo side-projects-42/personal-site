@@ -1,9 +1,9 @@
 const positions = [
   {
     company: 'Cake',
-    position: 'Front End Developer',
+    position: 'Front End Developer - Contract',
     link: 'https://cakepm.com',
-    daterange: 'October 2020 - Present',
+    daterange: 'October 2020 - September 2021',
     points: [
       'Developed a team collaboration app from Scratch in React Native featuring full messaging architecture, texts, videos,photos, push notifications, message searching, message edit, delete, share, user directory etc. for MVP 1 and continuously integrating new features and bug fixes.',
       'Write optimized React components for web app using react hooks and redux for state management. Handling beautiful animations using React Transition Groups for improved user engagement.',
